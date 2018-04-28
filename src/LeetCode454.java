@@ -37,6 +37,9 @@ public class LeetCode454 {
 
             for (int j=0;j<B.length;j++){
 
+                /**
+                 * 去C+D里面找，有没有符合的，因为是hashMap，查找时间是O1
+                 */
                 int temp = 0 - (A[i]+B[j]);
 
                 if(cd.get(temp)==null){

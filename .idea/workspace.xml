@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22e37aef-83fc-4c73-ad2b-0ab481a2cb81" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode454.java" afterPath="$PROJECT_DIR$/src/LeetCode454.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,12 +56,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LeetCode454.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LeetCode454.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LeetCode454.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="52" column="19" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="52" selection-end-column="19" />
+            <state relative-caret-position="230">
+              <caret line="40" column="52" lean-forward="false" selection-start-line="40" selection-start-column="52" selection-end-line="40" selection-end-column="52" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeetCode447.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LeetCode447.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="71" column="5" lean-forward="true" selection-start-line="65" selection-start-column="4" selection-end-line="71" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -94,6 +106,7 @@
         <option value="$PROJECT_DIR$/src/LeetCode451.java" />
         <option value="$PROJECT_DIR$/src/LeetCode1.java" />
         <option value="$PROJECT_DIR$/src/LeetCode454.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode447.java" />
       </list>
     </option>
   </component>
@@ -288,12 +301,12 @@
       <updated>1524724890081</updated>
       <workItem from="1524724893315" duration="3583000" />
       <workItem from="1524791354826" duration="12493000" />
-      <workItem from="1524884115224" duration="1282000" />
+      <workItem from="1524884115224" duration="4154000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17358000" />
+    <option name="totallyTimeSpent" value="20230000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -530,9 +543,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCode454.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="52" column="19" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="52" selection-end-column="19" />
+        <state relative-caret-position="230">
+          <caret line="40" column="52" lean-forward="false" selection-start-line="40" selection-start-column="52" selection-end-line="40" selection-end-column="52" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode447.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="71" column="5" lean-forward="true" selection-start-line="65" selection-start-column="4" selection-end-line="71" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
